@@ -22,4 +22,4 @@
 
 **ССылка на проект:**
 
-https://github.com/VashInkognito/russian-travel.git
+https://vashinkognito.github.io/russian-travel/
