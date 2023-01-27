@@ -3,7 +3,7 @@
   min-height: 740px;
   margin: 0 auto 92px;
   color: #ffffff;
-  background: url('/images/cover-trains.jpg');
+  background: url('./images/cover-trains.jpg');
   background-size: cover;
   background-position: center;
   position: relative;
