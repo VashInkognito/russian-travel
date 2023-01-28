@@ -20,6 +20,6 @@
 
 ---
 
-**ССылка на проект:**
+**Сcылка на проект:**
 
 https://vashinkognito.github.io/russian-travel/
