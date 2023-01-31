@@ -17,6 +17,5 @@
     max-width: calc(100% - 32px);
     display: flex;
     flex-direction: column;
-    gap: 48px;
   }
 }
