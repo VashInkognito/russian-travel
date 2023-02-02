@@ -40,7 +40,6 @@
 
 @media screen and (max-width: 1023px) {
   .cover__link {
-    max-width: 100%;
     min-height: 480px;
     margin: 0 auto 88px;
   }
@@ -48,7 +47,6 @@
 
 @media screen and (max-width: 560px) {
   .cover__link {
-    max-width: 100%;
     min-height: 200px;
     margin: 0 auto 64px;
     gap: 16px;
